@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👩‍💻 Letícia Gomes Libert
 
-<!--
-**lethovisque/lethovisque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é **Letícia Gomes Libert**, sou estudante do **Ensino Médio** e aluna do **SENAC Tatuapé**, onde estou cursando o **Técnico em Informática**.  
+Atualmente estou estudando os conteúdos da **UC-1**, que incluem:
 
-Here are some ideas to get you started:
+- ⚙️ Teoria de Hardware  
+- 🔌 Elétrica Básica  
+- 🤖 Eletrônica Básica com Arduino  
+- 🌐 GitHub Básico  
+- 🧠 Inteligência Artificial (IA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Objetivos
+- Aprender e compreender profundamente **programação**.  
+- Realizar um **intercâmbio** em outro país.  
+- Melhorar ainda mais minha **fluência em inglês**.  
+- Atuar em alguma área relacionada ao curso de Técnico em Informática.  
+- E, se surgir uma boa oportunidade na área artística, seguir nesse caminho também.  
+
+---
+
+## 💡 Interesses
+- 🖥️ Montagem de computadores  
+- 👩‍💻 Programação  
+- 🔧 Hardware  
+- 🎨 Arte (desenho, esculturas, costura)  
+- 📚 Leitura de livros  
+- 🏐 Vôlei  
+
+---
+
+## 📫 Como me encontrar
+- GitHub: [seu-link-aqui](https://github.com/)  
+---
+
+✨ Sempre em busca de aprender, crescer e transformar ideias em realidade!
