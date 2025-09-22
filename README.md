@@ -1,6 +1,13 @@
 ![.](download.jfif)
+<h1 aling= "center" >Welcome to my word!</h1>
+<h3 aling= "center" >Learning about Tech things, like</h3>
+<hr
 
-<h1 aling="center">Título</h1>
+- Hardware
+- Elétrica Básica
+- Elétrica Básica com Arduino
+
+
 ----
 # 👩‍💻 Letícia Gomes Libert
 
