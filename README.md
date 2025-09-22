@@ -1,3 +1,6 @@
+download.jfif
+
+----
 # 👩‍💻 Letícia Gomes Libert
 
 Olá! Meu nome é **Letícia Gomes Libert**, sou estudante do **Ensino Médio** e aluna do **SENAC Tatuapé**, onde estou cursando o **Técnico em Informática**.  
