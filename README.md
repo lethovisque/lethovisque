@@ -30,8 +30,4 @@ Atualmente estou estudando os conteúdos da **UC-1**, que incluem:
 
 ---
 
-## 📫 Como me encontrar
-- GitHub: [seu-link-aqui](https://github.com/)  
----
-
 ✨ Sempre em busca de aprender, crescer e transformar ideias em realidade!
