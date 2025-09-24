@@ -1,4 +1,3 @@
-![.](download.jfif)
 <h1 aling= "center" >?</h1>
 <h3 aling= "center" >Learning about Tech things, like.</h3>
 <hr
