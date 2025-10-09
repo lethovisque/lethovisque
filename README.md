@@ -1,16 +1,10 @@
 ![8d339223db294f7cf091e5c6994940a8](https://github.com/user-attachments/assets/d3f8cb24-c8dd-43a0-aefd-bf41f268aba5)
 
 <h1 aling= "center" >Letícia</h1>
-<h3 aling= "center" >Learning about Tech things, like.</h3>
+<h3 aling= "center" >Sempre em constante aprendizado.</h3>
 <hr>
 
-- Hardware
-- Elétrica Básica
-- Elétrica Básica com Arduino
-
-
-----
-# 👩‍💻 Letícia Gomes Libert
+## Tecnologias que estou aprendendo
 
 Olá! Meu nome é **Letícia Gomes Libert**, sou estudante do **Ensino Médio** e aluna do **SENAC Tatuapé**, onde estou cursando o **Técnico em Informática**.  
 Atualmente estou estudando os conteúdos da **UC-1**, que incluem:
