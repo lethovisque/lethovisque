@@ -1,6 +1,8 @@
-<h1 aling= "center" >?</h1>
+![8d339223db294f7cf091e5c6994940a8](https://github.com/user-attachments/assets/d3f8cb24-c8dd-43a0-aefd-bf41f268aba5)
+
+<h1 aling= "center" >Letícia</h1>
 <h3 aling= "center" >Learning about Tech things, like.</h3>
-<hr
+<hr>
 
 - Hardware
 - Elétrica Básica
